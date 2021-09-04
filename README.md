@@ -1,2 +1,1 @@
-# social-network-analysis
-Social Network Analysis with Python ( NetworkX )
+# Social Network Analysis with Python ( NetworkX )
